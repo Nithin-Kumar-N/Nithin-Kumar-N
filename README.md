@@ -12,7 +12,7 @@
 
 <p align="center" width="100%">
 <img
-  src="https://drive.google.com/file/d/1EsVxd-hhXdOJcOqm8PBPPgXOuqG1bunf/view?usp=drive_link"
+  src="[https://drive.google.com/file/d/14F29fbIkqhu1l9s0TgyUigCkV8K_uoSI/view?usp=sharing](https://drive.google.com/file/d/14F29fbIkqhu1l9s0TgyUigCkV8K_uoSI/view?usp=sharing)"
   width="75%"
   height="auto" />
 </p>
