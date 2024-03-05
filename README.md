@@ -15,7 +15,7 @@
 <br>
 
 <div>
-   <img align="right" width=350px src="<iframe src="https://giphy.com/embed/Y4ak9Ki2GZCbJxAnJD" width="480" height="302" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Y4ak9Ki2GZCbJxAnJD">via GIPHY</a></p>" />
+   <img align="right" width=350px src="https://cdn.dribbble.com/users/3622080/screenshots/15648952/media/e11ca617ad5b2da061ec8367cb9a5f56.gif" />
 <div>
 
 - Hello folks, I'm a Software Engineer 🚀.
