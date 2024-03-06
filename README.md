@@ -100,7 +100,7 @@
 </div>
 <br>
 
-<p align="center">💙 If you like my projects, Give them ⭐ and Share them!</p>
+<p align="center">💙 Thank you for visiting my github profile</p>
 
 <div align="center">
    
@@ -109,4 +109,4 @@
                 
 </div>
 
-<p align="center">Made with ❤️ in India By Nithin Kumar</p>
+<p align="center">Made by Nithin Kumar</p>
